@@ -1,0 +1,14 @@
+body{
+    background-color: darkseagreen;
+
+}
+img{  width: 300px; 
+    height: auto; 
+    border: 3px solid #131518; 
+    border-radius: 8px; 
+    margin-bottom: 20px;
+    text-align: center;
+    align-items: center;
+    border-radius: 15px;
+    margin-left: 500px;
+}
